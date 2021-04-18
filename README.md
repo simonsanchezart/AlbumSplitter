@@ -2,6 +2,8 @@
 
 A cmd tool that takes an .mp3 and a .txt with timestamps, splits the mp3 based on those timestamps.
 
+```pip install pydub``` - Requirement
+
 ## Usage
 
 The .mp3 and .txt should be in their own folder together.
