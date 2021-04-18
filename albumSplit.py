@@ -37,6 +37,7 @@ class Song():
         for char in forbiddenChars:
             name = name.replace(char, '')
 
+        name = name.strip()
         self.name = name
 
     def SetHighTimestamp(self, highTimestamp):
