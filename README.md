@@ -4,9 +4,8 @@ A cmd tool that takes an .mp3 and a .txt with timestamps, splits the mp3 based o
 
 **Requirements:**
 
-[FFmpeg](https://www.ffmpeg.org/)
-
-```pip install pydub``` - Requirement
+- [FFmpeg](https://www.ffmpeg.org/)
+- [PyDub](https://pypi.org/project/pydub/)
 
 ## Usage
 
